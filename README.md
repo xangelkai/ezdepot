@@ -22,7 +22,9 @@
 ---
 ## Usage
 clone this repo
+
 `chmod +x depot_downloader.sh`
+
 `./depot_downloader.sh`
 
 ---
