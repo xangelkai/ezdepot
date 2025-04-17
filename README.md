@@ -8,7 +8,6 @@
   - Regular Steam depots
   - Workshop items by `pubfile` or `UGC ID`
 - ✅ Automatic subfolder creation based on AppID
-- ✅ Password input is hidden
 - ✅ Saves downloads in a custom directory (default: `/mnt/hdd1/downloads/APPID`)
 - ✅ Logs the last used command to `~/depotdownloader_last.log`
 
