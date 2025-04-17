@@ -29,6 +29,9 @@ clone this repo
 ---
 
 Downloads will be saved in:
+
 /mnt/hdd1/downloads/<AppID>/
+
 You can change the default path by editing this line at the top of the script:
+
 BASE_DOWNLOAD_DIR="/mnt/hdd1/downloads"
